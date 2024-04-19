@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am following <Github for dummies> ch03 right now.
+
+![](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
